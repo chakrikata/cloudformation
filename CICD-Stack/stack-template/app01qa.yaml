@@ -6,7 +6,7 @@ Parameters:
   JenkStackName:
     Description: Name of the base stack with all infra resources
     Type: String
-    Default: jenk
+    Default: jenkins
   MyIP:
     Type: String
   KeyName: 
