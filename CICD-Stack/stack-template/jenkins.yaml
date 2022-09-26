@@ -97,5 +97,5 @@ Outputs:
       - JenkinsSG
       - GroupId
     Export:
-      Name: jenk-SGID
+      Name: jenkins-SGID
 #        Fn::Sub: "${AWS::StackName}-SecurityGroupID"
